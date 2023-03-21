@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "meet_a_mate",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

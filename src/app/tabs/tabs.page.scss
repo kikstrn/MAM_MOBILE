@@ -1,0 +1,7 @@
+ion-tab-bar, ion-tab-button{
+    background-color: var(--sidebar-color)
+}
+  
+ion-tab-bar{
+    --color-selected: var(--secondary-color) !important;
+}

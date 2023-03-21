@@ -1,0 +1,19 @@
+:root {
+  --body-color: #18191a;
+    --sidebar-color: #242526;
+    --primary-color: #3a3b3c;
+    --primary-color-light: #3a3b3c;
+    --secondary-color: #5a4fcf;
+    --toggle-color: #fff;
+    --text-color: #ccc;
+    --text-color-light: rgb(240, 240, 240);
+    /* ====== Transition ====== */
+    --tran-03: all 0.2s ease;
+    --tran-03: all 0.3s ease;
+    --tran-04: all 0.3s ease;
+    --tran-05: all 0.3s ease;
+}
+
+ion-content{
+  --ion-background-color:var(--body-color);
+}

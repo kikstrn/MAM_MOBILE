@@ -1,0 +1,8 @@
+{
+  "name": "meet_a_mate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "58f87e79"
+}
